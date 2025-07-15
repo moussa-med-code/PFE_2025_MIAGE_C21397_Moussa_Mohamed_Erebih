@@ -1,0 +1,17 @@
+export { default as HomeHeader } from './HomeHeader';
+export { default as HomeContent } from './HomeContent';
+export { default as LoginForm } from './LoginForm';
+export { default as SignupForm } from './SignupForm';
+export { default as HomeFooter } from './HomeFooter';
+export { default as VerificationEmailPage } from './VerificationEmailPage';
+export { default as ClientProfile } from './ClientProfile';
+export { default as FreelancerProfile } from './FreelancerProfile';
+export { default as AdminProfile } from './AdminProfile';
+export { default as DemandeReinitialisation } from './DemandeReinitialisation';
+export { default as ReinitialisationMotDePasse } from './ReinitialisationMotDePasse';
+export { default as EditFreelancerProfile } from './EditFreelancerProfile';
+export { default as EditClientProfile } from './EditClientProfile';
+export { default as EditAdminProfile } from './EditAdminProfile';
+export { default as ClientDashboard } from './ClientDashboard';
+export { default as FreelancerDashboard } from './FreelancerDashboard';
+export { default as AdminDashboard } from './AdminDashboard';
