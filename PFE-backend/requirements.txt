@@ -1,6 +1,6 @@
 asgiref==3.8.1
 defusedxml==0.7.1
-Django==5.2
+Django==5.2.8
 django-cors-headers==4.7.0
 django-ipware==7.0.1
 django-recaptcha==4.1.0
